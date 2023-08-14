@@ -1,2 +1,5 @@
 saat ini saya sedang belajar git
-oke oke saja
+dan saya belajar git branch 
+
+mencoba melaukan perubahan 
+penambahan kolaborator
